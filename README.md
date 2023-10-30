@@ -10,4 +10,4 @@
 guxtaa07/guxtaa07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![RODRIGO](https://tenor.com/pt-BR/view/rodrygo-gif-16426122751883485552)
+![rodrigo](https://tenor.com/pt-BR/view/rodrygo-gif-16426122751883485552)
